@@ -1,0 +1,4 @@
+# downloaded at runtime, never committed
+samples/
+data.json
+node_modules/
