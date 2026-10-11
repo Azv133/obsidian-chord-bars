@@ -1,9 +1,10 @@
 {
   "id": "chord-bars",
   "name": "Chord Bars",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "minAppVersion": "1.4.0",
-  "description": "Write chord progressions bar by bar and play them back: transpose, metronome, tap tempo, piano chord finder and drag and drop.",
+  "description": "Write chord progressions bar by bar and play them back, with transposition, metronome, tap tempo, a piano chord finder and drag and drop.",
   "author": "Adrian Zavaleta",
+  "authorUrl": "https://github.com/Azv133",
   "isDesktopOnly": false
 }
